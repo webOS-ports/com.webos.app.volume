@@ -10,8 +10,7 @@
 	"largeIcon": "icon-large.png",
 	"uiRevision": 2,
 	"requiredPermissions": [
-		"audio.query",
-		"audio.operation"
+		"all"
 	],
 	"trustLevel": "trusted",
 	"accessibility": {
